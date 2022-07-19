@@ -1,5 +1,7 @@
 ---
 description: Little bit about me :)
+coverY: 0
+layout: landing
 ---
 
 # About Arman
